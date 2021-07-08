@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BSDservice
+- 👋 Hi, I’m Aleksandr
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python, JS, and related frameworks - react, redux, django, asyncio
 - 💞️ I’m looking to collaborate on any intersting project
